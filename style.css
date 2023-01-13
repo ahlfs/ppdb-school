@@ -1,0 +1,223 @@
+
+
+.bg1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("https://smkmuh1-yog.sch.id/wp-content/uploads/2021/08/foto_depan.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 0;
+    margin:0;
+
+}
+
+.bg2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("imagex/gambar3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0;
+    margin:0;
+    
+}
+
+.bg3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("imagex/gambar2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0;
+    margin:0;
+    
+}
+
+.bg4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("imagex/gambar.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0;
+    margin:0;
+    
+}
+
+.gedung {
+    width: 50px;
+    height: 50px;
+}
+
+form {
+    padding-left: 20px;
+    color: white;
+    text-shadow: 7px;
+}
+
+.container{
+    width: 100%;
+    height: auto;
+    background: transparent;
+    margin:auto;
+    margin-top: 0px;
+    padding-bottom: 0px;
+}
+.logo {
+    font-size: xx-large;
+    padding: 30px 0 30px 10px;
+    color: white;
+    text-align: center;
+}
+
+
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 100%;
+    height: 75px;
+    background-color: black;
+    opacity: 80%;
+    
+}
+
+.wrapper {
+    box-shadow: 0px 7px 15px black;
+    width: 100%;
+    height: 75px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.navigation > li > img {
+    width: 50px;
+    height: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a{
+    display: inline-block;
+    color:#ffffff;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 8px;
+    
+    
+}
+
+nav li a:hover {
+    opacity:0.9;
+    color: #020101;
+    background-color: cyan;
+    transition: all .6s ease-in-out;
+    
+}
+
+
+
+article {
+    width: 98.8%;
+    height: auto;
+    border-radius: 3px;
+    margin: 5px 5px 5px 5px;
+    border: 1px solid gainsboro;
+    clear: both;
+}
+
+
+
+article p {
+    padding: 5px 6px 5px 5px;
+    line-height: 1.5;
+    color: white;
+}
+
+
+footer {
+    clear: both;
+    width: 98.8%;
+    height: auto;
+    text-align: center;
+    margin: 5px 5px 5px 5px;
+    border-radius: 3px;
+    border-bottom: 1px solid gainsboro;
+    padding-top: 15px;
+    padding-bottom: 15px;  
+}
+
+h2 {
+    color: white;
+    text-align: center
+    
+}
+
+article .konten img {
+    height: auto;
+   }
+ 
+
+
+  .bbs {
+      color: white;
+  }
+  .konten0 {
+    width: 100%;
+    height: 70.5%;
+    margin: 5px 5px 5px 5px;
+    border-radius: 3px;
+    border: 1px solid black;
+    float: center;
+    background: black;
+    opacity: 75%;
+    padding-bottom: 40px;
+    
+    
+}
+article li {
+    color: white;
+    list-style: none;
+    padding-left: 50px;
+}
+
+article ol li {
+    color: white;
+}
+.konten1 {
+    color: white;
+    list-style: none;
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 100%;
+    height: 70.5%;
+    margin: 5px 5px 5px 5px;
+    border-radius: 3px;
+    border: 1px solid black;
+    float: center;
+    background: black;
+    opacity: 75%;
+    padding-bottom: 40px;
+}
+article p {
+    color: white;
+}
+
+article .konten0 table {
+    opacity: 100%;
+}
+article ul {
+    opacity: 50%;
+}
+
+article div {
+    opacity: 100%;
+}
